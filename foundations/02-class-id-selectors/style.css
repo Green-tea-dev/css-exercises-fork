@@ -1,0 +1,21 @@
+#no-2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#no-4 {
+    background-color: rgba(0, 255, 94, 0.756);
+    font-size: 24px;
+    font-weight: bold;
+
+
+}
+
+.odd {
+    background-color: rgba(255, 0, 76, 0.349);
+    font-family: Verdana, "DeJaVu Sans", sans-serif;
+}
+
+.no-3 {
+    font-size: 24px;
+}
